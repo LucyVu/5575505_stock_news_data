@@ -25,7 +25,7 @@ This project successfully developed and evaluated a Retrieval-Augmented Generati
 Besides, the study also highlighted certain limitations, such as the system’s focus on a narrow dataset and the high computational costs involved. Future research should focus on expanding the dataset to include broader financial topics and improving computational efficiency to make the system more adaptable for real-time financial applications. By doing so, the system can be further refined and optimized for a wider array of financial news queries, offering significant potential for analysts, researchers, and investors seeking timely and accurate information.
 
 
-# Achievment:
+# Achievment
 •	Earned the highest grade in the course (80/100) 
 
 ![image](https://github.com/user-attachments/assets/348018aa-104a-4e70-9926-128798a3fdd0)
